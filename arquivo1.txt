@@ -1,0 +1,5 @@
+Arquivo1 alterado na mesma linha
+
+da branch exemplo-corrigir-conflitos
+
+para dá conflitos
